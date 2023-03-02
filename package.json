@@ -11,7 +11,7 @@
     "watch": "webpack --watch --mode development",
     "build": "webpack --mode production",
     "build-dev": "webpack",
-    "deploy": "gh-pages -d dist",
+    "deploy": "yarn build && gh-pages -d dist",
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
     "format": "prettier --write \"**/*.+(js|json|html|css|md)\""
