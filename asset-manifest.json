@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67fc9efa.css",
+    "main.js": "/static/js/main.787ebe69.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/movie-master.png": "/static/media/movie-master.5f1efc7297f13a43ad3c.png",
+    "static/media/letzdance.png": "/static/media/letzdance.ad21a6d86ed469ec268d.png",
+    "static/media/JinusMkResume.pdf": "/static/media/JinusMkResume.e73e7dba6bb447b1599c.pdf",
+    "static/media/portfolio-builder.png": "/static/media/portfolio-builder.da6d9156c932afc12c20.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/sprinter.png": "/static/media/sprinter.bfd9b7c91ece206d0166.png",
+    "static/media/talkative.png": "/static/media/talkative.18c66a3656d22311cc6e.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.67fc9efa.css.map": "/static/css/main.67fc9efa.css.map",
+    "main.787ebe69.js.map": "/static/js/main.787ebe69.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67fc9efa.css",
+    "static/js/main.787ebe69.js"
+  ]
+}
